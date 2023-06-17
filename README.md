@@ -42,7 +42,7 @@ These are all the models I've created
 - Bone
 
 # Latest Files
-[Texture](https://github.com/LeCloutPanda/The-Byte-Project/releases/latest/download/Bytes.Accessories.png)
-[PSD File](https://github.com/LeCloutPanda/The-Byte-Project/releases/latest/download/Bytes.Accessories.psd)
-[Blend File](https://github.com/LeCloutPanda/The-Byte-Project/releases/latest/download/Byte.Costumes.blend)
+- [Texture](https://github.com/LeCloutPanda/The-Byte-Project/releases/latest/download/Bytes.Accessories.png)
+- [PSD File](https://github.com/LeCloutPanda/The-Byte-Project/releases/latest/download/Bytes.Accessories.psd)
+- [Blend File](https://github.com/LeCloutPanda/The-Byte-Project/releases/latest/download/Byte.Costumes.blend)
 
